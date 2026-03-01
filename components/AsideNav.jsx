@@ -1,8 +1,8 @@
-import NavLink from './NavLink';
 import appConfig from '@/app.config';
 import useCurrentPage from '@/hooks/useCurrentPage';
 import capitalize from '@/utils/capitalize';
 import formatUnsignedInt from '@/utils/formatUnsignedInt';
+import NavLink from './NavLink';
 
 import styles from './AsideNav.module.css';
 
@@ -31,11 +31,11 @@ export default function AsideNav({ sections, groups, closeAside }) {
                 <li key={section.slug}>
                     {section.disabled ?
                         <span className={styles.disabled}>
-                            {`${capitalize(appConfig.sectionName)} ${formatUnsignedInt(index + 1, 2)}`}
+                            {`${capitalize(appConfig.sectionName)} ${formatUnsignedInt(index, 2)}`}
                         </span>
                         :
                         <NavLink href={`/${section.slug}`} activeClassName={styles.active} onClick={closeAside}>
-                            {`${capitalize(appConfig.sectionName)} ${formatUnsignedInt(index + 1, 2)}`}
+                            {`${capitalize(appConfig.sectionName)} ${formatUnsignedInt(index, 2)}`}
                         </NavLink>
                     }
 

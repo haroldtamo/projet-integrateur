@@ -1,8 +1,8 @@
-import Link from 'next/link'
 import appConfig from '@/app.config'
 import Bubble from '@/components/Bubble'
 import { getSections } from '@/model/section'
 import capitalize from '@/utils/capitalize'
+import Link from 'next/link'
 
 import styles from './page.module.css'
 
@@ -25,7 +25,7 @@ export default async function Home() {
         <ul className={styles.list}>
             { sections.map((section, index) => (
                 <li key={index} className={(section.disabled ? styles.disabled : '')}>
-                    <Bubble name={capitalize(appConfig.sectionName)} number={index + 1} />
+                    <Bubble name={capitalize(appConfig.sectionName)} number={index} />
                     <div className={ styles.description }>
                         {!section.disabled ? 
                             <Link href={`/${section.slug}/`} className={styles.link}><h2>{section.title}</h2></Link>
