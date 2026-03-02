@@ -2,7 +2,10 @@
     "title": "Module 0",
     "description": "Description de module",
     "pages": [
-        "test2",
+        "DefinitionFondements",
+        "Historique",
+        "ProjetxCompetences",
+        "ProduitDefis",
         "lab-01"
     ]
 }
