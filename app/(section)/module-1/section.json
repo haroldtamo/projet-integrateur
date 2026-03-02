@@ -2,7 +2,11 @@
     "title": "Module 1",
     "description": "Description de module",
     "pages": [
-        "test2",
+        "contratengagement",
+        "retroaction",
+        "grilleeval",
+        "sujetsprojets",
+        "choixprojets",
         "lab-01"
     ]
 }
