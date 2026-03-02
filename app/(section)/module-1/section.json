@@ -1,6 +1,6 @@
 {
-    "title": "Module 1",
-    "description": "Description de module",
+    "title": "Mise en route du projet intégrateur",
+    "description": "Dans ce module, tu découvres le fonctionnement du projet intégrateur : contrat d’engagement, critères d’évaluation, rétroactions, choix de ton projet et premières règles de travail en équipe.",
     "pages": [
         "contratengagement",
         "retroaction",
