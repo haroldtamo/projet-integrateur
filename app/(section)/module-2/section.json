@@ -1,7 +1,12 @@
 {
-    "title": "Titre de module",
-    "description": "Description de module",
+    "title": "Outils et méthodes de gestion du projet",
+    "description": "Dans ce module, tu découvres les outils et méthodes qui vont t’aider à structurer ton projet : cahier des charges, planification (Gantt), gestion de projet (Scrum, Jira) et versionnement (Git/GitHub).",
     "pages": [
-
+        "scrum",
+        "cahiercharges",
+        "planif",
+        "jira",
+        "git"
+        
     ]
 }
