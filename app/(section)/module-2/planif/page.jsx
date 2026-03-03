@@ -1,3 +1,5 @@
+import gantt from '@/public/img/module-02/gantt.png';
+import Image from 'next/image';
 /**
  * @type {import("next").Metadata}
  */
@@ -17,6 +19,7 @@ export default function Page() {
                 grandes étapes, jalons, livrables importants, etc. Un diagramme de Gantt te permet de visualiser cette planification
                 sur toute la session.
             </p>
+            <Image src={gantt} alt="Diagramme de Gantt" />
             <p>
                 Tu peux utiliser un outil comme <strong>GanttProject</strong>, <strong>Microsoft Project</strong> ou un autre
                 logiciel similaire pour construire cette vue d’ensemble (tâches, dates, durées, dépendances, ressources).

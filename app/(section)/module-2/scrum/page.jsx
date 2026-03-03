@@ -1,3 +1,4 @@
+
 /**
  * @type {import("next").Metadata}
  */
@@ -21,6 +22,7 @@ export default function Page() {
                 avec des objectifs clairs et des livrables à chaque itération. Dans ce cours, il va surtout te servir à organiser
                 ton travail d’équipe et à faire avancer ton projet par étapes.
             </p>
+            
         </section>
 
         <section>

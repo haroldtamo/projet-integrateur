@@ -101,19 +101,7 @@ export default function Page() {
                 </ul>
             </section>
 
-            <section>
-                <h2>Accès enseignant sur Jira</h2>
-                <p>
-                    Comme pour GitHub, votre projet Jira doit être accessible à l’enseignant. Ajoutez-le au projet avec un rôle
-                    qui lui donne un accès complet (par exemple « Administrators » ou l’équivalent selon la configuration de
-                    Jira).
-                </p>
-                <p>
-                    Cet accès complet permet à l’enseignant de consulter votre backlog, vos sprints, vos tâches et le suivi de vos
-                    rencontres Scrum directement dans Jira.
-                </p>
-            </section>
-
+            
             <section>
                 <h2>Attentes minimales d’utilisation</h2>
                 <ul>

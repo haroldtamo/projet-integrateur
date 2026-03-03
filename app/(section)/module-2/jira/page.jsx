@@ -1,3 +1,5 @@
+import scrum from '@/public/img/module-02/scrum.png';
+import Image from 'next/image';
 /**
  * @type {import("next").Metadata}
  */
@@ -16,6 +18,7 @@ export default function Page() {
                 Jira est un outil de gestion de projet largement utilisé en industrie pour suivre les tâches, gérer un backlog
                 et organiser le travail en Scrum (backlog, sprints, tableaux, rapports, etc.).
             </p>
+            <Image src={scrum} alt="Vue Kanban" />
             <p>
                 Dans le projet intégrateur, Jira va te servir à :
             </p>
@@ -122,7 +125,7 @@ export default function Page() {
         <section>
                 <h2>Accès enseignant sur Jira</h2>
                 <p>
-                    Comme pour GitHub, votre projet Jira doit être accessible à l’enseignant. Ajoutez-le au projet avec un rôle
+                    Votre projet Jira doit être accessible à l’enseignant. Ajoutez-le au projet avec un rôle
                     qui lui donne un accès complet (par exemple « Administrators » ou l’équivalent selon la configuration de
                     Jira).
                 </p>
