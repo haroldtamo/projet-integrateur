@@ -6,7 +6,7 @@ import js from 'react-syntax-highlighter/dist/cjs/languages/prism/javascript'
 import csharp from 'react-syntax-highlighter/dist/cjs/languages/prism/csharp'
 
 const appConfig = {
-    domain: 'https://jwilkie.github.io/website-template',
+    domain: 'https://haroldtamo.github.io/projet-integrateur',
     title: 'Website Template',
     description: 'Gabarit de base pour des site web de notes de cours.',
     sectionName: 'module',
