@@ -1,0 +1,14 @@
+{
+    "title": "Diagrammes UML et conception détaillée",
+    "description": "Dans ce module, tu vas préciser la conception de ton application en utilisant plusieurs types de diagrammes UML. L’objectif est de rendre tes idées plus claires, d’éviter les ambiguïtés et d’aider ton équipe à prendre de meilleures décisions pendant le sprint 2. Chaque type de diagramme a un rôle différent : certains se concentrent sur les interactions avec les utilisateurs, d’autres sur le flux d’activités, la structure des données ou les échanges entre objets au cours d’un scénario.",
+    "keywords": ["UML", "diagrammes", "cas d’utilisation", "activités", "classes", "séquence"],
+    "pages": [
+        "uml",
+        "casu",
+        "activite",
+        "classe",
+        "objet",
+        "sequence",
+        "options"
+    ]
+}
