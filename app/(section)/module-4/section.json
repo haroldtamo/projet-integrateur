@@ -1,7 +1,9 @@
 {
-    "title": "Titre de module",
-    "description": "Description de module",
+    "title": "Développement et qualité dans le sprint 1",
+    "description": "Dans ce module, tu te concentres sur la façon de bien développer ton application pendant le sprint 1. Il ne s'agit plus seulement de planifier le travail, mais de le réaliser proprement en équipe, avec des tests et une qualité minimale de code.\nTu vas voir comment collaborer sur le code avec Git et GitHub, définir une stratégie de tests et coder des tests unitaires pour ton application, et appliquer quelques bonnes pratiques simples pour garder un code lisible et maintenable tout au long du sprint.",
     "pages": [
-
+        "teams",
+        "tests",
+        "quality"
     ]
 }

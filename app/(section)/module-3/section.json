@@ -1,7 +1,8 @@
 {
-    "title": "Titre de module",
-    "description": "Description de module",
+    "title": "Premier sprint : planification et conception",
+    "description": "Dans ce module, tu vas apprendre à planifier ton premier sprint et à produire les éléments de base du dossier de conception pour démarrer le développement de ton projet intégrateur.",
     "pages": [
-        "sprint1"
+        "sprint1",
+        "conception"
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "title": "Démarrer le sprint 2 et la documentation",
+    "description": "Dans ce module, tu relances le projet avec le sprint 2. Tu ne repars pas de zéro : tu t’appuies sur le bilan dusprint 1 (revue, rétro, backlog mis à jour) pour définir un nouvel objectif de sprint et organiser ton travail. C’est aussi à ce moment que la documentation prend plus de place dans le projet : en plus du code, de la conception et des tests, tu commences à structurer ta documentation technique et ton manuel utilisateur, et à envisager la génération de documentation à partir de ton code.",
+    "keywords": ["sprint 2", "backlog", "documentation", "amélioration continue"],
+    "pages": [
+        "sprint2",
+        "conception",
+        "docs"
+    ]
+}

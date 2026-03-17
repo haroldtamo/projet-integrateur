@@ -1,0 +1,9 @@
+{
+    "title": "Clôture du sprint 1",
+    "description": "Dans ce module, tu termines officiellement le sprint 1. Il ne s’agit pas seulement de faire une démonstration, mais aussi de prendre du recul sur ce qui s’est passé pendant le sprint et de préparer la suite du projet. Tu vas voir comment se déroule la revue de sprint 1 (présentation et évaluation), comment mener une rétrospective simple avec ton équipe et comment mettre à jour ton backlog pour le sprint suivant en fonction de ce que vous avez appris.",
+    "keywords": ["sprint 1", "revue de sprint", "rétrospective", "backlog"],
+    "pages": [
+        "review",
+        "retro"
+    ]
+}

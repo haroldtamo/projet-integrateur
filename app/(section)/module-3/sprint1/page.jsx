@@ -3,7 +3,7 @@
  */
 
 export const metadata = {
-    title: "Module 3 – Démarrer le 1er sprint",
+    title: "Démarrage du premier sprint",
     description:
         "Comprendre comment démarrer le premier sprint : affiner le backlog, définir l’objectif de sprint, découper en tâches et organiser le travail de l’équipe.",
     keywords: ["sprint 1", "Scrum", "sprint planning", "backlog"],
@@ -14,7 +14,7 @@ export default function Page() {
     return (
         <main className="page">
             <section>
-                <h1>Module 3 – Démarrer le 1er sprint</h1>
+                <h1>Démarrer le 1er sprint</h1>
                 <p>
                     Dans ce module, tu vois comment démarrer concrètement ton premier sprint. L’idée est de passer du backlog
                     « global » de ton projet à un plan de travail réaliste pour les prochaines semaines, avec un objectif de sprint
@@ -134,14 +134,13 @@ export default function Page() {
                         Vérifiez que chaque membre de l’équipe sait quelles tâches il ou elle doit commencer en début de sprint.
                     </li>
                     <li>
-                        Assurez-vous que Git et GitHub sont prêts pour le sprint (branches, accès, structure du dépôt) afin de
-                        éviter les problèmes techniques de base.
+                        Assurez-vous que Git et GitHub sont prêts pour le sprint (branches, accès, structure du dépôt) afin d'éviter les problèmes techniques de base.
                     </li>
                 </ul>
             </section>
 
             <section>
-                <h2>Ce que tu dois avoir à la fin du module 3</h2>
+                <h2>Ce que tu dois avoir à la fin</h2>
                 <ul>
                     <li>
                         Un objectif de sprint 1 formulé clairement et partagé par toute l’équipe.

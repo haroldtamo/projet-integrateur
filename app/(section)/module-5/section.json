@@ -1,0 +1,9 @@
+{
+    "title": "Préparer la démonstration du sprint 1",
+    "description": "Dans ce module, tu te prépares à la revue du sprint 1. L’objectif n’est pas seulement d’avoir travaillé, mais d’être capable de montrer clairement ce que votre équipe a réellement livré pendant le sprint.Tu vas voir comment choisir ce que tu vas démontrer, comment raconter l’histoire de ton sprint (objectif, résultats, difficultés) et comment t’assurer que tous les artefacts nécessaires (Jira, GitHub, conception, tests) sont prêts et accessibles pour l’enseignant et le client.",
+    "pages": [
+        "review",
+        "artefacts"
+        
+    ]
+}
